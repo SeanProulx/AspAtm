@@ -1,0 +1,70 @@
+﻿body
+{
+    background: url("image/background.jpg") center;
+    font-family: Verdana;
+}
+
+legend
+{
+    font-size:20px;
+    font-style:oblique;
+}
+
+#header
+{
+    height: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    border-style: outset;
+    border-color: White;
+    border-width: thick;
+    color: Black;
+}
+
+#menu
+{
+    width: 800px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    border-style: outset;
+    border-color: White;
+    border-width: thick;
+    color: Black;
+}
+
+#content
+{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer
+{
+    height: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    border-style: outset;
+    border-color: White;
+    border-width: thick;
+    color: Black;
+    padding-top: 50px;
+    text-align: center;
+}
+
+table
+{
+    width: auto;
+    text-align: left;
+}
+
+td
+{
+    padding-top: 5px;
+}
